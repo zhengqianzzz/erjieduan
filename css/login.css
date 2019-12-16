@@ -1,0 +1,52 @@
+
+
+.layout{width:1200px;margin:0 auto;}
+
+
+header{height:67px;border-bottom: 1px solid #333;background: #333;}
+header p{float: left;width:330px;padding-top:18px;float: left;}
+header p img{height:100%;float: left;}
+header p b{font-size: 18px;float: left;height: 20px;width: 2px;background: #cccccc;margin: 9px 12px 0 12px;}
+header p span{color: #f7f7f7;font-size: 18px;margin-top: 9px;float: left;}
+
+
+
+main{background:#f2f2f2;width:100%;height:540px;}
+
+main div.layout{position: relative;width:960px;padding:30px 0;margin: 0 auto;background:#f2f2f2;}
+main div.layout .main-l a{position: absolute;top: 50%;left: 10px;margin-top: -180px;width: 400px;height: 360px;}
+main div.layout .main-l img{position: absolute;left: 10px;top: 50%;margin-top: -101px;width: 400px;height: 203px;}
+
+main div .login{z-index: 2;top:110px;height:368px;;margin:0 auto;width: 350px;font-size: 12px;border: 1px solid #eaeaea;background-color: #fff;}
+main div .login-t{position: relative;width: 350px;height: 52px;font-size: 16px;line-height: 52px;color: #333;border-bottom: 1px solid #ddd;background-color: #f8f8f8;}
+main div .login-t span{position: absolute;top: 17px;left: 175px;width: 0;height: 20px;border-right: solid 1px #ddd;}
+main div .login-t .login-t-l{float: left;width: 175px;font-weight: 700;cursor: pointer;text-align: center;}
+main div .login-t .login-t-l:hover{color:#e31436;}
+main div .login-t .login-t-r{float: left;width: 175px;font-weight: 700;cursor: pointer;text-align: center;}
+main div .login-t .login-t-r:hover{color:#e31436;}
+main div .login-t .actic{color:#e31436;background: #ddd;}
+main div .re{display:none}
+
+
+
+main div .up{height:274px;width: 270px;padding: 20px 40px 15px;background-color: #fff;}
+main div .up .user{width:270px;height: 34px;line-height: 30px;margin-top:30px;text-indent:2em;border-bottom:1px solid #e5e5e5;}
+main div .up .pass{width:270px;height: 34px;line-height: 30px;margin-top:16px;text-indent:2em;border-bottom: 1px solid #e5e5e5}
+main div .up input{border:none;background:none;color:#999;height:36px;line-height:36px;width:220px;outline:none;}
+main div .up .user{width:270px;height:36px;}
+main div .up .btn{background-color: #E31436;margin-top: 7px;margin-bottom: 10px;text-align: center;margin-top:55px;border-radius: 25px;}
+main div .up .btn input{color: #fff;border-radius: 2px;line-height: 36px;font-size: 14px;outline:none}
+
+
+
+form { position: relative;}
+
+
+
+footer{height:153px;padding-top:30px;text-align: center;}
+footer p{color: #666;font:12px/26px "";text-align: center;}
+footer p a{color: #666;font:12px/26px "";text-align: center;text-decoration:underline}
+footer p span{margin-right:20px;}
+
+
+
